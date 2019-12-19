@@ -15,7 +15,7 @@ import (
 	"os"
 	"os/exec"
 
-	"myitcv.io/hybridimporter/srcimporter"
+	"github.com/paulcamper/x/hybridimporter/srcimporter"
 )
 
 type pkgInfo struct {

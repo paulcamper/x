@@ -1,3 +1,0 @@
-! exec helpflagtopkgdoc -help
-! stdout .+
-stderr 'helpflagtopkgdoc ensures that your package docs stay up to date'

@@ -1,3 +1,0 @@
-! exec consttofile -help
-! stdout .+
-stderr 'consttofile expands a package-level string constant to a file'

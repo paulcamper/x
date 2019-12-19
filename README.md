@@ -1,2 +1,0 @@
-### `myitcv.io/...` mono-repo
-
